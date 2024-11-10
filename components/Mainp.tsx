@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <main className="font-poppins p-8 text-center">
         {/* Hero Section */}
-        <section className="bg-gradient-to-br from-indigo-700 to-blue-600 text-white p-14 mb:p-24 rounded-lg mb-12 shadow-lg animate-fadeIn">
+        <section className="bg-gradient-to-br from-green-700 to-blue-600 text-white p-14 mb:p-24 rounded-lg mb-12 shadow-lg animate-fadeIn">
           <h1 className="text-5xl font-bold m-0">Welcome to Our Fancy Website</h1>
           <p className="text-xl mt-6 font-normal text-gray-200">Experience the blend of aesthetics and functionality.</p>
         </section>
